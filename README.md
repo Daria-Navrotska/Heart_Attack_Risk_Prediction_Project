@@ -24,7 +24,7 @@ The data was analyzed using Python and the following supporting libraries:
 -Seaborn: for data visualizations, 
 -Matplotlib: for data visualizations (pyplot, Pylab), 
 -SciPy: for mathematical equations, 3D Visualisation,
--Folium: to create interactive geographic maps in Python,,
+-Folium: to create interactive geographic maps in Python,
 -Json: to handle structured data format,
 -Sklearn: for applying machine learning techniques such regression and clustering.
 
