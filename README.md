@@ -30,6 +30,7 @@ The data was analyzed using Python and the following supporting libraries:
 
 ## Link to Tableau storyboard
 https://public.tableau.com/views/HeartAttackRiskPredictionProject/IntroCVDandHeartAttackRisk?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+The storyboard doesn’t contain every step was taken through analysis — only those relevant to the final results.
 
 ## Data Sources
 “The Heart Attack Risk Prediction Dataset” accessed from (https://www.kaggle.com/datasets/ghnshymsaini/heart-attack-risk-prediction-dataset?resource=download) via Kaggle.
