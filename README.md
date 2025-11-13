@@ -28,9 +28,14 @@ The data was analyzed using Python and the following supporting libraries:
 -Json: to handle structured data format,
 -Sklearn: for applying machine learning techniques such regression and clustering.
 
-## Data Source
+## Link to Tableau storyboard
+https://public.tableau.com/views/HeartAttackRiskPredictionProject/IntroCVDandHeartAttackRisk?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Data Sources
 “The Heart Attack Risk Prediction Dataset” accessed from (https://www.kaggle.com/datasets/ghnshymsaini/heart-attack-risk-prediction-dataset?resource=download) via Kaggle.
 Note:  It is a synthetic dataset created for research and educational purposes. It likely draws inspiration from established clinical datasets such as the Cleveland Heart Disease dataset or other public health repositories. The dataset, consisting of 8763 records from patients around the globe.
+
+For the Time Series analysis was used "Death rate from cardiovascular diseases, 1950 to 2023" dataset from the WHO Mortality Database (2025) with minor processing by Our World in Data (https://archive.ourworldindata.org/20250909-093708/grapher/cardiovascular-disease-death-rate-who-mdb.html?time=earliest..2023#sources-and-processing). It is reported deaths from cardiovascular diseases in both sexes in those aged all ages per 100,000 people.
 
 ## Dataset Glossary (Column-wise): 
 1. Patient ID: Unique identifier for each patient. 
