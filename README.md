@@ -1,10 +1,10 @@
 # Heart Attack Risk Prediction Project
 
-<img width="617" height="436" alt="image" src="https://github.com/user-attachments/assets/d4400e81-6a11-4229-b000-1ad468e7b35d" />
-
 
 ## Project Overview
 This repository presents a comprehensive exploratory analysis of a synthetic Heart Attack Risk Prediction dataset sourced from Kaggle. The objective is to uncover meaningful patterns in cardiovascular risk factors and generate insights that support preventive strategies and public health awareness. The analysis investigates key questions such as which features most strongly correlate with heart attack risk, how age and cholesterol levels influence outcomes. It also explores clustering and regression techniques to assess variable relationships and identify subtle trends across global populations. The dataset’s rich mix of clinical, behavioral, and geographic features enables a holistic view of heart health across diverse patient profiles.
+
+<img width="617" height="436" alt="image" src="https://github.com/user-attachments/assets/d4400e81-6a11-4229-b000-1ad468e7b35d" />
 
 
 ## Key Questions
