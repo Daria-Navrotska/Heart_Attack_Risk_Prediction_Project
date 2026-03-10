@@ -13,30 +13,48 @@ This repository presents a comprehensive exploratory analysis of a synthetic Hea
 
 
 ## Folders
--01 Project Management: Project brief;
--03 Scripts: Jupyter notebooks containing codes;
--04 Analysis: 'Visualizations' subfolder contains the visualizations generated through the analysis;
+- 01 Project Management: Project brief;
+- 03 Scripts: Jupyter notebooks containing codes;
+- 04 Analysis: 'Visualizations' subfolder contains the visualizations generated through the analysis.
+
 
 ## Tools
 The data was analyzed using Python and the following supporting libraries:
--Pandas: for data analysis, 
--Numpy: for mathematical equations, 
--Seaborn: for data visualizations, 
--Matplotlib: for data visualizations (pyplot, Pylab), 
--SciPy: for mathematical equations, 3D Visualisation,
--Folium: to create interactive geographic maps in Python,
--Json: to handle structured data format,
--Sklearn: for applying machine learning techniques such regression and clustering.
+- Pandas: for data analysis, 
+- Numpy: for mathematical equations, 
+- Seaborn: for data visualizations, 
+- Matplotlib: for data visualizations (pyplot, Pylab), 
+- SciPy: for mathematical equations, 3D Visualisation,
+- Folium: to create interactive geographic maps in Python,
+- Json: to handle structured data format,
+- Sklearn: for applying machine learning techniques such regression and clustering.
+
+
+## Insights
+1. The data reveals that heart health and lifestyle indicators show minimal predictive value for heart attack risk in this sample, despite their known clinical relevance.
+2. Among all countries, the USA, France, and Vietnam show leading average cholesterol levels and Heart Attack Risks, accordingly.
+3. Heart Attack Risk increases notably with age, making it a primary influencing factor (even so no linear regression, no clustering model can’t accurately predict this relation in the investigated dataset).
+
+
+## Recommendations and Next Steps
+- Perform analysis on real medical data with less binary variables
+- Analyse impact of other factors on the Heart Attack Risk and their complex effect
+- Just like real estate agents use clusters to tailor marketing, healthcare providers can usethis approach to design targeted wellness programs, prioritize diagnostics, or personalize treatment plans
+- Analysis could be useful proxy for educational and further exploratory analysis.
+<img width="638" height="623" alt="image" src="https://github.com/user-attachments/assets/15ce65a4-4d75-4b0a-a817-8d4b713349fd" />
+
 
 ## Link to Tableau storyboard
 https://public.tableau.com/views/HeartAttackRiskPredictionProject/IntroCVDandHeartAttackRisk?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 The storyboard doesn’t contain every step was taken through analysis — only those relevant to the final results.
+
 
 ## Data Sources
 “The Heart Attack Risk Prediction Dataset” accessed from (https://www.kaggle.com/datasets/ghnshymsaini/heart-attack-risk-prediction-dataset?resource=download) via Kaggle.
 Note:  It is a synthetic dataset created for research and educational purposes. It likely draws inspiration from established clinical datasets such as the Cleveland Heart Disease dataset or other public health repositories. The dataset, consisting of 8763 records from patients around the globe.
 
 For the Time Series analysis was used "Death rate from cardiovascular diseases, 1950 to 2023" dataset from the WHO Mortality Database (2025) with minor processing by Our World in Data (https://archive.ourworldindata.org/20250909-093708/grapher/cardiovascular-disease-death-rate-who-mdb.html?time=earliest..2023#sources-and-processing). It is reported deaths from cardiovascular diseases in both sexes in those aged all ages per 100,000 people.
+
 
 ## Dataset Glossary (Column-wise): 
 1. Patient ID: Unique identifier for each patient. 
