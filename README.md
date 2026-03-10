@@ -47,6 +47,7 @@ There are a very weak negative relationship between Heart Rate, Family Hear Prob
 
 <img width="923" height="844" alt="image" src="https://github.com/user-attachments/assets/70572cf6-f73f-41cd-9e5f-7af5273f7c42" />
 
+
 2. Among all countries, the USA, France, and Vietnam show leading average cholesterol levels and Heart Attack Risks, accordingly.
 
 - Cholesterol is a key heart risk factor, making its global distribution a revealing health indicator.
@@ -54,6 +55,7 @@ There are a very weak negative relationship between Heart Rate, Family Hear Prob
 - However, Cholesterol Level alone do not reliably predict Heart Attack Risk, according to correlation data. 
 
 <img width="1890" height="660" alt="image" src="https://github.com/user-attachments/assets/7398c035-8653-47db-91c3-5648da59a131" />
+
 
 3. Heart Attack Risk increases notably with age, making it a primary influencing factor (even so no linear regression, no clustering model can’t accurately predict this relation in the investigated dataset).
 
