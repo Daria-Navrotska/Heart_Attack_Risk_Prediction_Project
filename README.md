@@ -13,9 +13,10 @@ This repository presents a comprehensive exploratory analysis of a synthetic Hea
 
 
 ## Folders
-- 01 Project Management: Project brief;
+- 01 Project Management: project brief;
+- 02 Data Profile: data files used and processed;
 - 03 Scripts: Jupyter notebooks containing codes;
-- 04 Analysis: 'Visualizations' subfolder contains the visualizations generated through the analysis.
+- 04 Analysis: contains the visualizations generated through the analysis.
 
 
 ## Tools
