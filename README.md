@@ -1,5 +1,8 @@
 # Heart Attack Risk Prediction Project
 
+<img width="617" height="436" alt="image" src="https://github.com/user-attachments/assets/d4400e81-6a11-4229-b000-1ad468e7b35d" />
+
+
 ## Project Overview
 This repository presents a comprehensive exploratory analysis of a synthetic Heart Attack Risk Prediction dataset sourced from Kaggle. The objective is to uncover meaningful patterns in cardiovascular risk factors and generate insights that support preventive strategies and public health awareness. The analysis investigates key questions such as which features most strongly correlate with heart attack risk, how age and cholesterol levels influence outcomes. It also explores clustering and regression techniques to assess variable relationships and identify subtle trends across global populations. The dataset’s rich mix of clinical, behavioral, and geographic features enables a holistic view of heart health across diverse patient profiles.
 
@@ -18,9 +21,10 @@ This repository presents a comprehensive exploratory analysis of a synthetic Hea
 - 03 Scripts: Jupyter notebooks containing codes;
 - 04 Analysis: contains the visualizations generated through the analysis.
 
+<img width="568" height="105" alt="image" src="https://github.com/user-attachments/assets/5cf7c226-c034-4c5f-b8b6-8d6e8b31f77f" />
 
-## Tools
-The data was analyzed using Python and the following supporting libraries:
+## Tools and Techniques:
+1. The data was analyzed using Python and the following supporting libraries:
 - Pandas: for data analysis, 
 - Numpy: for mathematical equations, 
 - Seaborn: for data visualizations, 
@@ -29,7 +33,10 @@ The data was analyzed using Python and the following supporting libraries:
 - Folium: to create interactive geographic maps in Python,
 - Json: to handle structured data format,
 - Sklearn: for applying machine learning techniques such regression and clustering.
-
+2. Exploratory Data Analysis (EDA) to uncover trends, correlations, and health risk patterns.
+3. Folium & JSON used for interactive geographic mapping and handling structured data formats.
+4. Regression & Clustering Models applied to assess relationships and group individuals based on health profiles. 
+5. Time-Series Analysis used to explore historical cardiovascular mortality trends from WHO data.
 
 ## Insights
 1. The data reveals that heart health and lifestyle indicators show minimal predictive value for heart attack risk in this sample, despite their known clinical relevance.
