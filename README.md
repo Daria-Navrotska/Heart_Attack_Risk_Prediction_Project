@@ -41,6 +41,7 @@ This repository presents a comprehensive exploratory analysis of a synthetic Hea
 
 
 ## Insights
+
 1. The data reveals that heart health and lifestyle indicators show minimal predictive value for heart attack risk in the investigated data sample, despite their known clinical relevance.
 
 There are a very weak negative relationship between Heart Rate, Family Hear Problems, Smoking, Obesity, Alcohol Consumption, Stress Level, Sedentary Hours Per Day, Physical Activity Days Per Week, Sleep Hours Per Day and Heart Attack Risk indicating no meaningful linear relationship between mentioned parameters and heart attack risk based on explored data (despite the common medical knowledge linking some of them to cardiovascular issues).
