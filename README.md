@@ -49,6 +49,7 @@ There are a very weak negative relationship between Heart Rate, Family Hear Prob
 <img width="923" height="844" alt="image" src="https://github.com/user-attachments/assets/70572cf6-f73f-41cd-9e5f-7af5273f7c42" />
 
 
+
 2. Among all countries, the USA, France, and Vietnam show leading average cholesterol levels and Heart Attack Risks, accordingly.
 
 - Cholesterol is a key heart risk factor, making its global distribution a revealing health indicator.
@@ -58,20 +59,24 @@ There are a very weak negative relationship between Heart Rate, Family Hear Prob
 <img width="1890" height="660" alt="image" src="https://github.com/user-attachments/assets/7398c035-8653-47db-91c3-5648da59a131" />
 
 
+
 3. Heart Attack Risk increases notably with age, making it a primary influencing factor (even so no linear regression, no clustering model can’t accurately predict this relation in the investigated dataset).
 
 Age is a probably primary driver of Heart Attack Risk, with older individuals showing significantly higher risk levels. It was choosen as a hypothesis of this analysis.
 
 <img width="848" height="663" alt="image" src="https://github.com/user-attachments/assets/9666c689-e47d-4019-b019-80822d004049" />
 
+
 Results demonstrate that the Age has a weak and uneven influence on Heart Rate, with only a slight downward trend observed. It is suggested that Age is not a strong predictor of Heart Rate in the analysed dataset - at least not linearly. Moreover, regression line doesn’t perfectly cover all of data points.
 
 <img width="985" height="740" alt="image" src="https://github.com/user-attachments/assets/211fbd2d-5ec4-49f7-9576-d02c368c9645" />
+
 
 Performed clustering analysis doesn’t reflect a strong or clean separation. The data points across clusters 0, 1, and 2 were densely packed and show considerable overlap missing clear boundary or distinct grouping that separates one cluster from another.
 This suggests that individuals of similar Age have a broad range of Heart Rates, and vice versa.
 
 <img width="722" height="502" alt="image" src="https://github.com/user-attachments/assets/d54197bf-17d7-4db6-a0c2-146ed90fe1ce" />
+
 
 3D clustering by Age, Heart Rate, and Body Mass Index (BMI) showed no clear separation, though color-coded groups suggest general trends: 0 - younger individuals with higher heart rate and lower BMI, 1 - middle-aged with moderate values, and 2 - older individuals with higher BMI and lower heart rate. The complex effects of these parameters are difficult to discuss due to the significant overlap.
 
